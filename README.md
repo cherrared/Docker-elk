@@ -4,6 +4,6 @@
 * To deploy:
 
 ```
-docker-compose-elk.yml up
+docker-compose -f docker-compose-elk.yml up
 
 ```
